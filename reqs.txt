@@ -1,0 +1,6 @@
+#reqs.txt
+
+streamlit
+tensorflow
+numpy
+pillow
